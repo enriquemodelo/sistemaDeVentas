@@ -1,0 +1,16 @@
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaNegocio\bin\Debug\MetroFramework.Design.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaNegocio\bin\Debug\MetroFramework.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaNegocio\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaNegocio\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaNegocio\bin\Debug\System.Data.SqlClient.xml

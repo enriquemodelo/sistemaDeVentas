@@ -1,0 +1,71 @@
+C:\Users\Desarrollo\source\repos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\CapaPresentacion.exe
+C:\Users\Desarrollo\source\repos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\CapaPresentacion.deps.json
+C:\Users\Desarrollo\source\repos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\Desarrollo\source\repos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\CapaPresentacion.runtimeconfig.dev.json
+C:\Users\Desarrollo\source\repos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\CapaPresentacion.dll
+C:\Users\Desarrollo\source\repos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\ref\CapaPresentacion.dll
+C:\Users\Desarrollo\source\repos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\CapaPresentacion.pdb
+C:\Users\Desarrollo\source\repos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Desarrollo\source\repos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.Inicio.resources
+C:\Users\Desarrollo\source\repos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Desarrollo\source\repos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\source\repos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\source\repos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\Desarrollo\source\repos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\source\repos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.dll
+C:\Users\Desarrollo\source\repos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\ref\CapaPresentacion.dll
+C:\Users\Desarrollo\source\repos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.pdb
+C:\Users\Desarrollo\source\repos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\Desarrollo\source\repos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\MetroFramework.Design.dll
+C:\Users\Desarrollo\source\repos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\MetroFramework.Fonts.dll
+C:\Users\Desarrollo\source\repos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\MetroFramework.dll
+C:\Users\Desarrollo\source\repos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\Desarrollo\source\repos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\CapaPresentacion.exe
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\CapaPresentacion.deps.json
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\CapaPresentacion.runtimeconfig.dev.json
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\CapaPresentacion.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\ref\CapaPresentacion.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\CapaPresentacion.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\MetroFramework.Design.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\MetroFramework.Fonts.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\MetroFramework.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.Inicio.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\ref\CapaPresentacion.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.Login.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.Properties.Resources.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\CapaPresentacion.dll.config
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\CapaDatos.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\CapaEntidad.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\CapaNegocio.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\CapaEntidad.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\CapaNegocio.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\CapaDatos.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.frmUsuario.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.frmCategoria.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.frmClientes.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.frmCompras.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.frmProducto.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.frmProveedores.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.frmReportes.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.frmVentas.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.frmDetalleCompras.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2019\proyectos\CursoSistemaVenta\CapaPresentacion\obj\Debug\net5.0-windows\CapaPresentacion.frmDetalleVenta.resources
