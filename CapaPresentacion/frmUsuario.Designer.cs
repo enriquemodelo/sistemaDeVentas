@@ -50,7 +50,7 @@ namespace CapaPresentacion
             this.cmbRol = new MetroFramework.Controls.MetroComboBox();
             this.cmbEstado = new MetroFramework.Controls.MetroComboBox();
             this.btnGuardar = new FontAwesome.Sharp.IconButton();
-            this.btnEditar = new FontAwesome.Sharp.IconButton();
+            this.btnLimpiar = new FontAwesome.Sharp.IconButton();
             this.btnEliminar = new FontAwesome.Sharp.IconButton();
             this.label10 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
@@ -70,7 +70,8 @@ namespace CapaPresentacion
             this.IdUsuario = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.btnSeleccionarUsuario = new System.Windows.Forms.DataGridViewButtonColumn();
             this.dgvDataUsuarios = new MetroFramework.Controls.MetroGrid();
-            this.btnLimpiar = new FontAwesome.Sharp.IconButton();
+            this.btnLimpiarBuscador = new FontAwesome.Sharp.IconButton();
+            this.txtIndice = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvDataUsuarios)).BeginInit();
             this.SuspendLayout();
             // 
@@ -244,24 +245,25 @@ namespace CapaPresentacion
             this.btnGuardar.UseVisualStyleBackColor = false;
             this.btnGuardar.Click += new System.EventHandler(this.btnGuardar_Click);
             // 
-            // btnEditar
+            // btnLimpiar
             // 
-            this.btnEditar.BackColor = System.Drawing.Color.RoyalBlue;
-            this.btnEditar.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnEditar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnEditar.ForeColor = System.Drawing.Color.White;
-            this.btnEditar.IconChar = FontAwesome.Sharp.IconChar.Edit;
-            this.btnEditar.IconColor = System.Drawing.Color.White;
-            this.btnEditar.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.btnEditar.IconSize = 16;
-            this.btnEditar.Location = new System.Drawing.Point(62, 503);
-            this.btnEditar.Name = "btnEditar";
-            this.btnEditar.Size = new System.Drawing.Size(215, 31);
-            this.btnEditar.TabIndex = 21;
-            this.btnEditar.Text = "Editar";
-            this.btnEditar.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnEditar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.btnEditar.UseVisualStyleBackColor = false;
+            this.btnLimpiar.BackColor = System.Drawing.Color.RoyalBlue;
+            this.btnLimpiar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnLimpiar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnLimpiar.ForeColor = System.Drawing.Color.White;
+            this.btnLimpiar.IconChar = FontAwesome.Sharp.IconChar.Broom;
+            this.btnLimpiar.IconColor = System.Drawing.Color.White;
+            this.btnLimpiar.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.btnLimpiar.IconSize = 18;
+            this.btnLimpiar.Location = new System.Drawing.Point(62, 503);
+            this.btnLimpiar.Name = "btnLimpiar";
+            this.btnLimpiar.Size = new System.Drawing.Size(215, 31);
+            this.btnLimpiar.TabIndex = 21;
+            this.btnLimpiar.Text = "Limpiar";
+            this.btnLimpiar.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnLimpiar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btnLimpiar.UseVisualStyleBackColor = false;
+            this.btnLimpiar.Click += new System.EventHandler(this.btnLimpiar_Click);
             // 
             // btnEliminar
             // 
@@ -281,6 +283,7 @@ namespace CapaPresentacion
             this.btnEliminar.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnEliminar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnEliminar.UseVisualStyleBackColor = false;
+            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
             // 
             // label10
             // 
@@ -313,6 +316,7 @@ namespace CapaPresentacion
             this.txtIdUsuario.Size = new System.Drawing.Size(61, 23);
             this.txtIdUsuario.TabIndex = 26;
             this.txtIdUsuario.Text = "0";
+            this.txtIdUsuario.Visible = false;
             // 
             // label12
             // 
@@ -357,6 +361,7 @@ namespace CapaPresentacion
             this.btnBuscar.Size = new System.Drawing.Size(30, 30);
             this.btnBuscar.TabIndex = 30;
             this.btnBuscar.UseVisualStyleBackColor = false;
+            this.btnBuscar.Click += new System.EventHandler(this.btnBuscar_Click);
             // 
             // Estado
             // 
@@ -488,22 +493,34 @@ namespace CapaPresentacion
             this.dgvDataUsuarios.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvDataUsuarios.Size = new System.Drawing.Size(991, 460);
             this.dgvDataUsuarios.TabIndex = 24;
+            this.dgvDataUsuarios.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvDataUsuarios_CellContentClick);
+            this.dgvDataUsuarios.CellPainting += new System.Windows.Forms.DataGridViewCellPaintingEventHandler(this.dgvDataUsuarios_CellPainting);
             // 
-            // btnLimpiar
+            // btnLimpiarBuscador
             // 
-            this.btnLimpiar.BackColor = System.Drawing.Color.White;
-            this.btnLimpiar.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnLimpiar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnLimpiar.ForeColor = System.Drawing.Color.Black;
-            this.btnLimpiar.IconChar = FontAwesome.Sharp.IconChar.Broom;
-            this.btnLimpiar.IconColor = System.Drawing.Color.Black;
-            this.btnLimpiar.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.btnLimpiar.IconSize = 16;
-            this.btnLimpiar.Location = new System.Drawing.Point(1285, 48);
-            this.btnLimpiar.Name = "btnLimpiar";
-            this.btnLimpiar.Size = new System.Drawing.Size(30, 30);
-            this.btnLimpiar.TabIndex = 31;
-            this.btnLimpiar.UseVisualStyleBackColor = false;
+            this.btnLimpiarBuscador.BackColor = System.Drawing.Color.White;
+            this.btnLimpiarBuscador.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnLimpiarBuscador.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnLimpiarBuscador.ForeColor = System.Drawing.Color.Black;
+            this.btnLimpiarBuscador.IconChar = FontAwesome.Sharp.IconChar.Broom;
+            this.btnLimpiarBuscador.IconColor = System.Drawing.Color.Black;
+            this.btnLimpiarBuscador.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.btnLimpiarBuscador.IconSize = 16;
+            this.btnLimpiarBuscador.Location = new System.Drawing.Point(1285, 48);
+            this.btnLimpiarBuscador.Name = "btnLimpiarBuscador";
+            this.btnLimpiarBuscador.Size = new System.Drawing.Size(30, 30);
+            this.btnLimpiarBuscador.TabIndex = 31;
+            this.btnLimpiarBuscador.UseVisualStyleBackColor = false;
+            this.btnLimpiarBuscador.Click += new System.EventHandler(this.btnLimpiarBuscador_Click);
+            // 
+            // txtIndice
+            // 
+            this.txtIndice.Location = new System.Drawing.Point(151, 50);
+            this.txtIndice.Name = "txtIndice";
+            this.txtIndice.Size = new System.Drawing.Size(61, 23);
+            this.txtIndice.TabIndex = 32;
+            this.txtIndice.Text = "-1";
+            this.txtIndice.Visible = false;
             // 
             // frmUsuario
             // 
@@ -511,7 +528,8 @@ namespace CapaPresentacion
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(1378, 595);
-            this.Controls.Add(this.btnLimpiar);
+            this.Controls.Add(this.txtIndice);
+            this.Controls.Add(this.btnLimpiarBuscador);
             this.Controls.Add(this.btnBuscar);
             this.Controls.Add(this.txtBusqueda);
             this.Controls.Add(this.cmbBusqueda);
@@ -521,7 +539,7 @@ namespace CapaPresentacion
             this.Controls.Add(this.dgvDataUsuarios);
             this.Controls.Add(this.label10);
             this.Controls.Add(this.btnEliminar);
-            this.Controls.Add(this.btnEditar);
+            this.Controls.Add(this.btnLimpiar);
             this.Controls.Add(this.btnGuardar);
             this.Controls.Add(this.cmbEstado);
             this.Controls.Add(this.cmbRol);
@@ -567,7 +585,7 @@ namespace CapaPresentacion
         private MetroFramework.Controls.MetroComboBox cmbRol;
         private MetroFramework.Controls.MetroComboBox cmbEstado;
         private FontAwesome.Sharp.IconButton btnGuardar;
-        private FontAwesome.Sharp.IconButton btnEditar;
+        private FontAwesome.Sharp.IconButton btnLimpiar;
         private FontAwesome.Sharp.IconButton btnEliminar;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label11;
@@ -587,6 +605,7 @@ namespace CapaPresentacion
         private System.Windows.Forms.DataGridViewTextBoxColumn IdUsuario;
         private System.Windows.Forms.DataGridViewButtonColumn btnSeleccionarUsuario;
         private MetroFramework.Controls.MetroGrid dgvDataUsuarios;
-        private FontAwesome.Sharp.IconButton btnLimpiar;
+        private FontAwesome.Sharp.IconButton btnLimpiarBuscador;
+        private System.Windows.Forms.TextBox txtIndice;
     }
 }
